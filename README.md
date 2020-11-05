@@ -1,5 +1,3 @@
-# Analysing the performance of mobile cross-platform development approaches using UI interaction scenarios
-
 ## Requirements
 
  - `adb` must be available via command line
@@ -16,5 +14,4 @@
  - **Virtual environment must be activated**
  - **Connect a device in developer mode vi USB** (ensure that tha `adb daemon` is running)
  - Execute `python main.py` to start the test procedure
-# PerformanceTest
-# PT_Android_Python
+
